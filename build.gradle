@@ -1,0 +1,30 @@
+plugins {
+    id 'java'
+}
+
+group 'org.jiraclient'
+version '1.0-RELEASE'
+
+repositories {
+    mavenCentral()
+    maven{url "https://packages.atlassian.com/maven/repository/public"}
+}
+
+dependencies {
+    implementation 'com.atlassian.jira:jira-rest-java-client-app:5.2.0'
+    implementation 'org.eclipse.microprofile.config:microprofile-config-api:3.0'
+    implementation 'com.fasterxml.jackson.core:jackson-databind:2.13.0'
+    implementation 'com.fasterxml.jackson.datatype:jackson-datatype-joda:2.0.2'
+
+
+    testImplementation 'org.testng:testng:7.4.0'
+
+    compileOnly 'io.atlassian.fugue:fugue:4.7.2'
+    compileOnly 'org.projectlombok:lombok:1.18.22'
+
+    annotationProcessor 'org.projectlombok:lombok:1.18.22'
+}
+
+test {
+    useTestNG()
+}

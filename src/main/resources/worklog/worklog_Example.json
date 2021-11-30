@@ -1,0 +1,698 @@
+[
+  {
+    "self": "https://<yourJiraURL>/rest/api/2/issue/483198/worklog/368057",
+    "issueUri": "https://<yourJiraURL>/rest/api/latest/issue/483198",
+    "author": {
+      "self": "https://<yourJiraURL>/rest/api/2/user?username=<userName>",
+      "name": "<userName>",
+      "displayName": "<displayUserName>",
+      "accountId": null,
+      "selfUriIncomplete": false
+    },
+    "updateAuthor": {
+      "self": "https://<yourJiraURL>/rest/api/2/user?username=<userName>",
+      "name": "<userName>",
+      "displayName": "<displayUserName>",
+      "accountId": null,
+      "selfUriIncomplete": false
+    },
+    "comment": "",
+    "creationDate": 1637747486858,
+    "updateDate": 1637747486858,
+    "startDate": 1637683200000,
+    "minutesSpent": 180,
+    "visibility": null
+  },
+  {
+    "self": "https://<yourJiraURL>/rest/api/2/issue/483198/worklog/368194",
+    "issueUri": "https://<yourJiraURL>/rest/api/latest/issue/483198",
+    "author": {
+      "self": "https://<yourJiraURL>/rest/api/2/user?username=<userName>",
+      "name": "<userName>",
+      "displayName": "<displayUserName>",
+      "accountId": null,
+      "selfUriIncomplete": false
+    },
+    "updateAuthor": {
+      "self": "https://<yourJiraURL>/rest/api/2/user?username=<userName>",
+      "name": "<userName>",
+      "displayName": "<displayUserName>",
+      "accountId": null,
+      "selfUriIncomplete": false
+    },
+    "comment": "",
+    "creationDate": 1637777102568,
+    "updateDate": 1637777102568,
+    "startDate": 1637758800000,
+    "minutesSpent": 240,
+    "visibility": null
+  },
+  {
+    "self": "https://<yourJiraURL>/rest/api/2/issue/483198/worklog/368379",
+    "issueUri": "https://<yourJiraURL>/rest/api/latest/issue/483198",
+    "author": {
+      "self": "https://<yourJiraURL>/rest/api/2/user?username=<userName>",
+      "name": "<userName>",
+      "displayName": "<displayUserName>",
+      "accountId": null,
+      "selfUriIncomplete": false
+    },
+    "updateAuthor": {
+      "self": "https://<yourJiraURL>/rest/api/2/user?username=<userName>",
+      "name": "<userName>",
+      "displayName": "<displayUserName>",
+      "accountId": null,
+      "selfUriIncomplete": false
+    },
+    "comment": "",
+    "creationDate": 1637856451894,
+    "updateDate": 1637856451894,
+    "startDate": 1637823600000,
+    "minutesSpent": 60,
+    "visibility": null
+  },
+  {
+    "self": "https://<yourJiraURL>/rest/api/2/issue/483198/worklog/368380",
+    "issueUri": "https://<yourJiraURL>/rest/api/latest/issue/483198",
+    "author": {
+      "self": "https://<yourJiraURL>/rest/api/2/user?username=<userName>",
+      "name": "<userName>",
+      "displayName": "<displayUserName>",
+      "accountId": null,
+      "selfUriIncomplete": false
+    },
+    "updateAuthor": {
+      "self": "https://<yourJiraURL>/rest/api/2/user?username=<userName>",
+      "name": "<userName>",
+      "displayName": "<displayUserName>",
+      "accountId": null,
+      "selfUriIncomplete": false
+    },
+    "comment": "",
+    "creationDate": 1637856463245,
+    "updateDate": 1637856463245,
+    "startDate": 1637834400000,
+    "minutesSpent": 360,
+    "visibility": null
+  },
+  {
+    "self": "https://<yourJiraURL>/rest/api/2/issue/483198/worklog/368585",
+    "issueUri": "https://<yourJiraURL>/rest/api/latest/issue/483198",
+    "author": {
+      "self": "https://<yourJiraURL>/rest/api/2/user?username=<userName>",
+      "name": "<userName>",
+      "displayName": "<displayUserName>",
+      "accountId": null,
+      "selfUriIncomplete": false
+    },
+    "updateAuthor": {
+      "self": "https://<yourJiraURL>/rest/api/2/user?username=<userName>",
+      "name": "<userName>",
+      "displayName": "<displayUserName>",
+      "accountId": null,
+      "selfUriIncomplete": false
+    },
+    "comment": "",
+    "creationDate": 1637935717501,
+    "updateDate": 1637935717501,
+    "startDate": 1637908200000,
+    "minutesSpent": 90,
+    "visibility": null
+  },
+  {
+    "self": "https://<yourJiraURL>/rest/api/2/issue/483198/worklog/368586",
+    "issueUri": "https://<yourJiraURL>/rest/api/latest/issue/483198",
+    "author": {
+      "self": "https://<yourJiraURL>/rest/api/2/user?username=<userName>",
+      "name": "<userName>",
+      "displayName": "<displayUserName>",
+      "accountId": null,
+      "selfUriIncomplete": false
+    },
+    "updateAuthor": {
+      "self": "https://<yourJiraURL>/rest/api/2/user?username=<userName>",
+      "name": "<userName>",
+      "displayName": "<displayUserName>",
+      "accountId": null,
+      "selfUriIncomplete": false
+    },
+    "comment": "",
+    "creationDate": 1637935749952,
+    "updateDate": 1637935749952,
+    "startDate": 1637913600000,
+    "minutesSpent": 30,
+    "visibility": null
+  },
+  {
+    "self": "https://<yourJiraURL>/rest/api/2/issue/483198/worklog/368588",
+    "issueUri": "https://<yourJiraURL>/rest/api/latest/issue/483198",
+    "author": {
+      "self": "https://<yourJiraURL>/rest/api/2/user?username=<userName>",
+      "name": "<userName>",
+      "displayName": "<displayUserName>",
+      "accountId": null,
+      "selfUriIncomplete": false
+    },
+    "updateAuthor": {
+      "self": "https://<yourJiraURL>/rest/api/2/user?username=<userName>",
+      "name": "<userName>",
+      "displayName": "<displayUserName>",
+      "accountId": null,
+      "selfUriIncomplete": false
+    },
+    "comment": "",
+    "creationDate": 1637935795098,
+    "updateDate": 1637935795098,
+    "startDate": 1637922600000,
+    "minutesSpent": 240,
+    "visibility": null
+  },
+  {
+    "self": "https://<yourJiraURL>/rest/api/2/issue/483198/worklog/368989",
+    "issueUri": "https://<yourJiraURL>/rest/api/latest/issue/483198",
+    "author": {
+      "self": "https://<yourJiraURL>/rest/api/2/user?username=<userName>",
+      "name": "<userName>",
+      "displayName": "<displayUserName>",
+      "accountId": null,
+      "selfUriIncomplete": false
+    },
+    "updateAuthor": {
+      "self": "https://<yourJiraURL>/rest/api/2/user?username=<userName>",
+      "name": "<userName>",
+      "displayName": "<displayUserName>",
+      "accountId": null,
+      "selfUriIncomplete": false
+    },
+    "comment": "",
+    "creationDate": 1638199719786,
+    "updateDate": 1638199719786,
+    "startDate": 1638171000000,
+    "minutesSpent": 480,
+    "visibility": null
+  },
+  {
+    "self": "https://<yourJiraURL>/rest/api/2/issue/483198/worklog/369294",
+    "issueUri": "https://<yourJiraURL>/rest/api/latest/issue/483198",
+    "author": {
+      "self": "https://<yourJiraURL>/rest/api/2/user?username=<userName>",
+      "name": "<userName>",
+      "displayName": "<displayUserName>",
+      "accountId": null,
+      "selfUriIncomplete": false
+    },
+    "updateAuthor": {
+      "self": "https://<yourJiraURL>/rest/api/2/user?username=<userName>",
+      "name": "<userName>",
+      "displayName": "<displayUserName>",
+      "accountId": null,
+      "selfUriIncomplete": false
+    },
+    "comment": "",
+    "creationDate": 1638289429173,
+    "updateDate": 1638289429173,
+    "startDate": 1638255600000,
+    "minutesSpent": 480,
+    "visibility": null
+  },
+  {
+    "self": "https://<yourJiraURL>/rest/api/2/issue/481758/worklog/362193",
+    "issueUri": "https://<yourJiraURL>/rest/api/latest/issue/481758",
+    "author": {
+      "self": "https://<yourJiraURL>/rest/api/2/user?username=<userName>",
+      "name": "<userName>",
+      "displayName": "<displayUserName>",
+      "accountId": null,
+      "selfUriIncomplete": false
+    },
+    "updateAuthor": {
+      "self": "https://<yourJiraURL>/rest/api/2/user?username=<userName>",
+      "name": "<userName>",
+      "displayName": "<displayUserName>",
+      "accountId": null,
+      "selfUriIncomplete": false
+    },
+    "comment": "",
+    "creationDate": 1635349361392,
+    "updateDate": 1635349361392,
+    "startDate": 1635318000000,
+    "minutesSpent": 90,
+    "visibility": null
+  },
+  {
+    "self": "https://<yourJiraURL>/rest/api/2/issue/481758/worklog/363554",
+    "issueUri": "https://<yourJiraURL>/rest/api/latest/issue/481758",
+    "author": {
+      "self": "https://<yourJiraURL>/rest/api/2/user?username=<userName>",
+      "name": "<userName>",
+      "displayName": "<displayUserName>",
+      "accountId": null,
+      "selfUriIncomplete": false
+    },
+    "updateAuthor": {
+      "self": "https://<yourJiraURL>/rest/api/2/user?username=<userName>",
+      "name": "<userName>",
+      "displayName": "<displayUserName>",
+      "accountId": null,
+      "selfUriIncomplete": false
+    },
+    "comment": "",
+    "creationDate": 1635956292392,
+    "updateDate": 1635956292392,
+    "startDate": 1635854400000,
+    "minutesSpent": 180,
+    "visibility": null
+  },
+  {
+    "self": "https://<yourJiraURL>/rest/api/2/issue/481758/worklog/364400",
+    "issueUri": "https://<yourJiraURL>/rest/api/latest/issue/481758",
+    "author": {
+      "self": "https://<yourJiraURL>/rest/api/2/user?username=<userName>",
+      "name": "<userName>",
+      "displayName": "<displayUserName>",
+      "accountId": null,
+      "selfUriIncomplete": false
+    },
+    "updateAuthor": {
+      "self": "https://<yourJiraURL>/rest/api/2/user?username=<userName>",
+      "name": "<userName>",
+      "displayName": "<displayUserName>",
+      "accountId": null,
+      "selfUriIncomplete": false
+    },
+    "comment": "",
+    "creationDate": 1636131924071,
+    "updateDate": 1636131924071,
+    "startDate": 1636120800000,
+    "minutesSpent": 60,
+    "visibility": null
+  },
+  {
+    "self": "https://<yourJiraURL>/rest/api/2/issue/481528/worklog/362195",
+    "issueUri": "https://<yourJiraURL>/rest/api/latest/issue/481528",
+    "author": {
+      "self": "https://<yourJiraURL>/rest/api/2/user?username=<userName>",
+      "name": "<userName>",
+      "displayName": "<displayUserName>",
+      "accountId": null,
+      "selfUriIncomplete": false
+    },
+    "updateAuthor": {
+      "self": "https://<yourJiraURL>/rest/api/2/user?username=<userName>",
+      "name": "<userName>",
+      "displayName": "<displayUserName>",
+      "accountId": null,
+      "selfUriIncomplete": false
+    },
+    "comment": "",
+    "creationDate": 1635349494887,
+    "updateDate": 1635349494887,
+    "startDate": 1635336000000,
+    "minutesSpent": 180,
+    "visibility": null
+  },
+  {
+    "self": "https://<yourJiraURL>/rest/api/2/issue/481528/worklog/362707",
+    "issueUri": "https://<yourJiraURL>/rest/api/latest/issue/481528",
+    "author": {
+      "self": "https://<yourJiraURL>/rest/api/2/user?username=<userName>",
+      "name": "<userName>",
+      "displayName": "<displayUserName>",
+      "accountId": null,
+      "selfUriIncomplete": false
+    },
+    "updateAuthor": {
+      "self": "https://<yourJiraURL>/rest/api/2/user?username=<userName>",
+      "name": "<userName>",
+      "displayName": "<displayUserName>",
+      "accountId": null,
+      "selfUriIncomplete": false
+    },
+    "comment": "",
+    "creationDate": 1635519715184,
+    "updateDate": 1635519715184,
+    "startDate": 1635505200000,
+    "minutesSpent": 240,
+    "visibility": null
+  },
+  {
+    "self": "https://<yourJiraURL>/rest/api/2/issue/481528/worklog/363550",
+    "issueUri": "https://<yourJiraURL>/rest/api/latest/issue/481528",
+    "author": {
+      "self": "https://<yourJiraURL>/rest/api/2/user?username=<userName>",
+      "name": "<userName>",
+      "displayName": "<displayUserName>",
+      "accountId": null,
+      "selfUriIncomplete": false
+    },
+    "updateAuthor": {
+      "self": "https://<yourJiraURL>/rest/api/2/user?username=<userName>",
+      "name": "<userName>",
+      "displayName": "<displayUserName>",
+      "accountId": null,
+      "selfUriIncomplete": false
+    },
+    "comment": "",
+    "creationDate": 1635956209947,
+    "updateDate": 1635956209947,
+    "startDate": 1635840000000,
+    "minutesSpent": 60,
+    "visibility": null
+  },
+  {
+    "self": "https://<yourJiraURL>/rest/api/2/issue/481528/worklog/363558",
+    "issueUri": "https://<yourJiraURL>/rest/api/latest/issue/481528",
+    "author": {
+      "self": "https://<yourJiraURL>/rest/api/2/user?username=<userName>",
+      "name": "<userName>",
+      "displayName": "<displayUserName>",
+      "accountId": null,
+      "selfUriIncomplete": false
+    },
+    "updateAuthor": {
+      "self": "https://<yourJiraURL>/rest/api/2/user?username=<userName>",
+      "name": "<userName>",
+      "displayName": "<displayUserName>",
+      "accountId": null,
+      "selfUriIncomplete": false
+    },
+    "comment": "",
+    "creationDate": 1635956380136,
+    "updateDate": 1635956380136,
+    "startDate": 1635937200000,
+    "minutesSpent": 30,
+    "visibility": null
+  },
+  {
+    "self": "https://<yourJiraURL>/rest/api/2/issue/481528/worklog/363842",
+    "issueUri": "https://<yourJiraURL>/rest/api/latest/issue/481528",
+    "author": {
+      "self": "https://<yourJiraURL>/rest/api/2/user?username=<userName>",
+      "name": "<userName>",
+      "displayName": "<displayUserName>",
+      "accountId": null,
+      "selfUriIncomplete": false
+    },
+    "updateAuthor": {
+      "self": "https://<yourJiraURL>/rest/api/2/user?username=<userName>",
+      "name": "<userName>",
+      "displayName": "<displayUserName>",
+      "accountId": null,
+      "selfUriIncomplete": false
+    },
+    "comment": "",
+    "creationDate": 1636039566320,
+    "updateDate": 1636039615924,
+    "startDate": 1636021800000,
+    "minutesSpent": 150,
+    "visibility": null
+  },
+  {
+    "self": "https://<yourJiraURL>/rest/api/2/issue/481528/worklog/364399",
+    "issueUri": "https://<yourJiraURL>/rest/api/latest/issue/481528",
+    "author": {
+      "self": "https://<yourJiraURL>/rest/api/2/user?username=<userName>",
+      "name": "<userName>",
+      "displayName": "<displayUserName>",
+      "accountId": null,
+      "selfUriIncomplete": false
+    },
+    "updateAuthor": {
+      "self": "https://<yourJiraURL>/rest/api/2/user?username=<userName>",
+      "name": "<userName>",
+      "displayName": "<displayUserName>",
+      "accountId": null,
+      "selfUriIncomplete": false
+    },
+    "comment": "",
+    "creationDate": 1636131827927,
+    "updateDate": 1636131827927,
+    "startDate": 1636111800000,
+    "minutesSpent": 120,
+    "visibility": null
+  },
+  {
+    "self": "https://<yourJiraURL>/rest/api/2/issue/481515/worklog/362192",
+    "issueUri": "https://<yourJiraURL>/rest/api/latest/issue/481515",
+    "author": {
+      "self": "https://<yourJiraURL>/rest/api/2/user?username=<userName>",
+      "name": "<userName>",
+      "displayName": "<displayUserName>",
+      "accountId": null,
+      "selfUriIncomplete": false
+    },
+    "updateAuthor": {
+      "self": "https://<yourJiraURL>/rest/api/2/user?username=<userName>",
+      "name": "<userName>",
+      "displayName": "<displayUserName>",
+      "accountId": null,
+      "selfUriIncomplete": false
+    },
+    "comment": "",
+    "creationDate": 1635349196504,
+    "updateDate": 1635349196504,
+    "startDate": 1635242400000,
+    "minutesSpent": 300,
+    "visibility": null
+  },
+  {
+    "self": "https://<yourJiraURL>/rest/api/2/issue/481515/worklog/362194",
+    "issueUri": "https://<yourJiraURL>/rest/api/latest/issue/481515",
+    "author": {
+      "self": "https://<yourJiraURL>/rest/api/2/user?username=<userName>",
+      "name": "<userName>",
+      "displayName": "<displayUserName>",
+      "accountId": null,
+      "selfUriIncomplete": false
+    },
+    "updateAuthor": {
+      "self": "https://<yourJiraURL>/rest/api/2/user?username=<userName>",
+      "name": "<userName>",
+      "displayName": "<displayUserName>",
+      "accountId": null,
+      "selfUriIncomplete": false
+    },
+    "comment": "",
+    "creationDate": 1635349451057,
+    "updateDate": 1635349451057,
+    "startDate": 1635323400000,
+    "minutesSpent": 210,
+    "visibility": null
+  },
+  {
+    "self": "https://<yourJiraURL>/rest/api/2/issue/481515/worklog/362706",
+    "issueUri": "https://<yourJiraURL>/rest/api/latest/issue/481515",
+    "author": {
+      "self": "https://<yourJiraURL>/rest/api/2/user?username=<userName>",
+      "name": "<userName>",
+      "displayName": "<displayUserName>",
+      "accountId": null,
+      "selfUriIncomplete": false
+    },
+    "updateAuthor": {
+      "self": "https://<yourJiraURL>/rest/api/2/user?username=<userName>",
+      "name": "<userName>",
+      "displayName": "<displayUserName>",
+      "accountId": null,
+      "selfUriIncomplete": false
+    },
+    "comment": "",
+    "creationDate": 1635519698019,
+    "updateDate": 1635519698019,
+    "startDate": 1635490800000,
+    "minutesSpent": 240,
+    "visibility": null
+  },
+  {
+    "self": "https://<yourJiraURL>/rest/api/2/issue/481515/worklog/363031",
+    "issueUri": "https://<yourJiraURL>/rest/api/latest/issue/481515",
+    "author": {
+      "self": "https://<yourJiraURL>/rest/api/2/user?username=<userName>",
+      "name": "<userName>",
+      "displayName": "<displayUserName>",
+      "accountId": null,
+      "selfUriIncomplete": false
+    },
+    "updateAuthor": {
+      "self": "https://<yourJiraURL>/rest/api/2/user?username=<userName>",
+      "name": "<userName>",
+      "displayName": "<displayUserName>",
+      "accountId": null,
+      "selfUriIncomplete": false
+    },
+    "comment": "",
+    "creationDate": 1635782263794,
+    "updateDate": 1635782263794,
+    "startDate": 1635762600000,
+    "minutesSpent": 210,
+    "visibility": null
+  },
+  {
+    "self": "https://<yourJiraURL>/rest/api/2/issue/481515/worklog/363551",
+    "issueUri": "https://<yourJiraURL>/rest/api/latest/issue/481515",
+    "author": {
+      "self": "https://<yourJiraURL>/rest/api/2/user?username=<userName>",
+      "name": "<userName>",
+      "displayName": "<displayUserName>",
+      "accountId": null,
+      "selfUriIncomplete": false
+    },
+    "updateAuthor": {
+      "self": "https://<yourJiraURL>/rest/api/2/user?username=<userName>",
+      "name": "<userName>",
+      "displayName": "<displayUserName>",
+      "accountId": null,
+      "selfUriIncomplete": false
+    },
+    "comment": "",
+    "creationDate": 1635956226713,
+    "updateDate": 1635956226713,
+    "startDate": 1635843600000,
+    "minutesSpent": 60,
+    "visibility": null
+  },
+  {
+    "self": "https://<yourJiraURL>/rest/api/2/issue/481515/worklog/363559",
+    "issueUri": "https://<yourJiraURL>/rest/api/latest/issue/481515",
+    "author": {
+      "self": "https://<yourJiraURL>/rest/api/2/user?username=<userName>",
+      "name": "<userName>",
+      "displayName": "<displayUserName>",
+      "accountId": null,
+      "selfUriIncomplete": false
+    },
+    "updateAuthor": {
+      "self": "https://<yourJiraURL>/rest/api/2/user?username=<userName>",
+      "name": "<userName>",
+      "displayName": "<displayUserName>",
+      "accountId": null,
+      "selfUriIncomplete": false
+    },
+    "comment": "",
+    "creationDate": 1635956391477,
+    "updateDate": 1635956391477,
+    "startDate": 1635939000000,
+    "minutesSpent": 30,
+    "visibility": null
+  },
+  {
+    "self": "https://<yourJiraURL>/rest/api/2/issue/481515/worklog/363841",
+    "issueUri": "https://<yourJiraURL>/rest/api/latest/issue/481515",
+    "author": {
+      "self": "https://<yourJiraURL>/rest/api/2/user?username=<userName>",
+      "name": "<userName>",
+      "displayName": "<displayUserName>",
+      "accountId": null,
+      "selfUriIncomplete": false
+    },
+    "updateAuthor": {
+      "self": "https://<yourJiraURL>/rest/api/2/user?username=<userName>",
+      "name": "<userName>",
+      "displayName": "<displayUserName>",
+      "accountId": null,
+      "selfUriIncomplete": false
+    },
+    "comment": "",
+    "creationDate": 1636039552281,
+    "updateDate": 1636039552281,
+    "startDate": 1636012800000,
+    "minutesSpent": 150,
+    "visibility": null
+  },
+  {
+    "self": "https://<yourJiraURL>/rest/api/2/issue/481515/worklog/364398",
+    "issueUri": "https://<yourJiraURL>/rest/api/latest/issue/481515",
+    "author": {
+      "self": "https://<yourJiraURL>/rest/api/2/user?username=<userName>",
+      "name": "<userName>",
+      "displayName": "<displayUserName>",
+      "accountId": null,
+      "selfUriIncomplete": false
+    },
+    "updateAuthor": {
+      "self": "https://<yourJiraURL>/rest/api/2/user?username=<userName>",
+      "name": "<userName>",
+      "displayName": "<displayUserName>",
+      "accountId": null,
+      "selfUriIncomplete": false
+    },
+    "comment": "",
+    "creationDate": 1636131807813,
+    "updateDate": 1636131807813,
+    "startDate": 1636106400000,
+    "minutesSpent": 90,
+    "visibility": null
+  },
+  {
+    "self": "https://<yourJiraURL>/rest/api/2/issue/481515/worklog/364992",
+    "issueUri": "https://<yourJiraURL>/rest/api/latest/issue/481515",
+    "author": {
+      "self": "https://<yourJiraURL>/rest/api/2/user?username=<userName>",
+      "name": "<userName>",
+      "displayName": "<displayUserName>",
+      "accountId": null,
+      "selfUriIncomplete": false
+    },
+    "updateAuthor": {
+      "self": "https://<yourJiraURL>/rest/api/2/user?username=<userName>",
+      "name": "<userName>",
+      "displayName": "<displayUserName>",
+      "accountId": null,
+      "selfUriIncomplete": false
+    },
+    "comment": "",
+    "creationDate": 1636473064666,
+    "updateDate": 1636473064666,
+    "startDate": 1636372800000,
+    "minutesSpent": 60,
+    "visibility": null
+  },
+  {
+    "self": "https://<yourJiraURL>/rest/api/2/issue/481515/worklog/364993",
+    "issueUri": "https://<yourJiraURL>/rest/api/latest/issue/481515",
+    "author": {
+      "self": "https://<yourJiraURL>/rest/api/2/user?username=<userName>",
+      "name": "<userName>",
+      "displayName": "<displayUserName>",
+      "accountId": null,
+      "selfUriIncomplete": false
+    },
+    "updateAuthor": {
+      "self": "https://<yourJiraURL>/rest/api/2/user?username=<userName>",
+      "name": "<userName>",
+      "displayName": "<displayUserName>",
+      "accountId": null,
+      "selfUriIncomplete": false
+    },
+    "comment": "",
+    "creationDate": 1636473075368,
+    "updateDate": 1636473075368,
+    "startDate": 1636376400000,
+    "minutesSpent": 60,
+    "visibility": null
+  },
+  {
+    "self": "https://<yourJiraURL>/rest/api/2/issue/481515/worklog/364996",
+    "issueUri": "https://<yourJiraURL>/rest/api/latest/issue/481515",
+    "author": {
+      "self": "https://<yourJiraURL>/rest/api/2/user?username=<userName>",
+      "name": "<userName>",
+      "displayName": "<displayUserName>",
+      "accountId": null,
+      "selfUriIncomplete": false
+    },
+    "updateAuthor": {
+      "self": "https://<yourJiraURL>/rest/api/2/user?username=<userName>",
+      "name": "<userName>",
+      "displayName": "<displayUserName>",
+      "accountId": null,
+      "selfUriIncomplete": false
+    },
+    "comment": "",
+    "creationDate": 1636473169158,
+    "updateDate": 1636473169158,
+    "startDate": 1636459200000,
+    "minutesSpent": 60,
+    "visibility": null
+  }
+]

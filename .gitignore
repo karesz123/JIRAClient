@@ -1,0 +1,11 @@
+# Generated files
+.idea/
+
+# Builded output files
+/build/
+
+# Gradle build files
+.gradle
+
+# User settings properties file
+user-settings.properties
