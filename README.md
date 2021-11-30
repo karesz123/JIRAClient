@@ -10,7 +10,7 @@ which exposes the available service methods.
 ## Steps to run
 1. **Clone the project**
    ```bash
-   git clone https://github.com/karesz123/DevelopmentSetUp.git
+   git clone https://github.com/karesz123/JIRAClient.git
    cd DevelopmentSetUp
    ```
 2. Run the gradle build.
